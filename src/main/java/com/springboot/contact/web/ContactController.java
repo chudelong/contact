@@ -1,6 +1,7 @@
 package com.springboot.contact.web;
 
 import com.springboot.contact.dao.ContactRepository;
+import com.springboot.contact.entity.Contact;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
